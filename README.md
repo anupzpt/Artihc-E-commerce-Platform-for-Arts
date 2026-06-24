@@ -20,5 +20,5 @@ This project showcases the practical application of software engineering princip
 
 * **Backend Framework:** PHP (Laravel MVC)
 * **Database:** MySQL
-* **Frontend UI:** Blade Templating, HTML5, CSS3, JavaScript (Responsive Design) 🎨
+* **Frontend UI:** Blade Templating, HTML5, CSS3, JavaScript (Responsive Design) 
 * **Authentication:** Laravel Auth / Breeze
